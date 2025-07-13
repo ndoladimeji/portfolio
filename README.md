@@ -1,14 +1,15 @@
 # 🌐 Oladimeji Nurudeen Akinpelumi - Portfolio Website
 
-Welcome to my personal portfolio website built using HTML and CSS!
+Welcome to my personal portfolio website built using HTML, CSS, JS, and Node.js!
 
 ## 🚀 About Me
-I'm an aspiring web developer with a background in data analysis and data science. This portfolio highlights my skills, mini-projects, and contact details.
+I'm an budding web developer with a background in data analysis and data science. This portfolio highlights my skills, mini-projects, and contact details.
 
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
-- Java
+- JS
+- Node.js
 - GitHub Pages
 - Git Version Control
 - Python
